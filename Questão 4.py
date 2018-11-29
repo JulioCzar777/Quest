@@ -1,5 +1,7 @@
 print('-=' * 13)
 print(' SUPERMERCADO TABAJARA')
+print(' Carnes: File Duplo, Alcatra e Picnha')
+print(' Formas De Pagamento: Cartão Tabajara, Dinheiro, Outros')
 print('-=' * 13)
 tipo = str(input('Qual o seu tipo de carne? ')).strip().upper()
 quantidade = int(input('Qual a quantidade de carne? '))
