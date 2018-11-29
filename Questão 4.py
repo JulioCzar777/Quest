@@ -4,9 +4,6 @@ print('-=' * 13)
 tipo = str(input('Qual o seu tipo de carne? ')).strip().upper()
 quantidade = int(input('Qual a quantidade de carne? '))
 tpagamento = str(input('Qual o tipo de pagamento? '))
-lista1 = []
-lista2 = []
-lista3 = []
 if tipo == 'FILE DUPLO':
   if quantidade < 5:
         total = quantidade * 4.90
