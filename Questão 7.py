@@ -9,6 +9,7 @@ print(vetor1)
 print(vetor2)
 print(vetor3)  
 #Vetor1 e 2 indefinidos
+print('-'*13)
 import random
 vetor1 = []
 vetor2 = []
@@ -22,6 +23,7 @@ print(vetor1)
 print(vetor2)
 print(vetor3)
 #Vetores definidos pelo usuario
+print('-'*13)
 vetor1 = []
 vetor2 = []
 vetor3 = []
