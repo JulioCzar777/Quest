@@ -1,4 +1,5 @@
 lista = list()
+print('Para parar de digitar suas notas, escreva -1')
 while (True):
     nota = float(input("Digite suas notas: "))
     if (nota == -1):
